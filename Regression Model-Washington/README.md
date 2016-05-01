@@ -1,1 +1,0 @@
-Here are course materials of coursera online course Regression produced by Washington University including pdf, ipython notebook, SFrame data used in the course, and markdown version of ipython notebook for convenience of reference.
